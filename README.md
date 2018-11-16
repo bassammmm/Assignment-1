@@ -1,5 +1,4 @@
-# hello_world
-Just another repository
-print("Hello world")
-print("Hello World")
+# Assignment 1
+Programming Fundamentals
+
 
