@@ -5,7 +5,7 @@ print("Practice Problem 3.10")
 
 def noVowel(s):
     for x in s:
-        if x==("a" or "e" or "i" or "o" or "u" or "A" or "E" or "I" or "U"):
+        if x in ("a","e","i","o","u","A","E","I","U"):
             print("False")
             break
             
